@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Uppgift5_2
+namespace Uppgift5_3
 {
     class Program
     {
